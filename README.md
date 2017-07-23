@@ -1,2 +1,0 @@
-# kafkaService
-KafkaService  framework
